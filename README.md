@@ -1,1 +1,1 @@
-# Graph-Orthagoanl-Visualization
+# Graph-Orthagonal-Visualization
