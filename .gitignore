@@ -2,3 +2,4 @@
 /Graph\ Visualizer/node_modules
 /venv
 /LibraryCode/__pycache__
+/LibraryCode/.venv
